@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.github.richardballard.arbeeabstracttypes.function;
+package com.github.richardballard.arbeecoretypes.function;
 
 import org.jetbrains.annotations.Nullable;
 

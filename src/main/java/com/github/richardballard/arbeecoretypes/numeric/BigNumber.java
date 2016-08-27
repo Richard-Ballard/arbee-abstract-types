@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.github.richardballard.arbeeabstracttypes.numeric;
+package com.github.richardballard.arbeecoretypes.numeric;
 
 import org.jetbrains.annotations.NotNull;
 
