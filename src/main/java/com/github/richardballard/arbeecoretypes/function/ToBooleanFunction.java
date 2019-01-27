@@ -16,8 +16,6 @@
 
 package com.github.richardballard.arbeecoretypes.function;
 
-import org.jetbrains.annotations.Nullable;
-
 /**
  * This class is based on {@link java.util.function.ToLongFunction} in that it is a functional interface that returns
  * a boolean.
@@ -25,5 +23,5 @@ import org.jetbrains.annotations.Nullable;
 @FunctionalInterface
 public interface ToBooleanFunction<T> {
 
-    boolean applyAsBoolean(@Nullable T value);
+  boolean applyAsBoolean(T value);
 }
