@@ -30,13 +30,11 @@ public abstract class BigNumber extends Number {
    * Returns the value of the specified number as a {@link BigInteger},
    * which may involve rounding or truncation.
    */
-  @NotNull
-  public abstract BigInteger bigIntegerValue();
+  public abstract @NotNull BigInteger bigIntegerValue();
 
   /**
    * Returns the value of the specified number as a {@link BigInteger},
    * which may involve rounding or truncation.
    */
-  @NotNull
-  public abstract BigDecimal bigDecimalValue();
+  public abstract @NotNull BigDecimal bigDecimalValue();
 }
