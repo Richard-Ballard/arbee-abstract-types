@@ -7,7 +7,7 @@ To download the most recent maven artifact go to [Maven Central](http://search.m
 ## Release Notes
 Release | Changes
 --- |  ---
-2.0-SNAPSHOT | <ul><li>Removed unnecessary @Nullable annotations</li><li>Updated indentation</li><li>Updated dependency versions</li></ul>
+2.0 | <ul><li>Removed unnecessary @Nullable annotations</li><li>Updated indentation</li><li>Updated dependency versions</li></ul>
 1.0 | <ul><li>Initial Release</li></ul>
 
 

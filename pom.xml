@@ -6,7 +6,7 @@
 
     <groupId>com.github.richard-ballard</groupId>
     <artifactId>arbee-core-types</artifactId>
-    <version>2.0-SNAPSHOT</version>
+    <version>2.0</version>
 
     <name>Arbee core types</name>
     <description>A collection of core data types and structures that I find useful across various projects</description>
